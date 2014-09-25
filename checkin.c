@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("hello Quentin");
+	printf("hello Paul Nguyen");
 	
 	// add a printf to print out a welcome message that includes your name
 
