@@ -4,9 +4,11 @@ int main() {
 	printf("COMP280 Roll Call:\n");
 	printf("Tanner Franklin\n");
 	printf("Ryan says hello.");
-	printf("hello Quentin");
 	printf("Hello from Danny");	
 	printf("Hello, Dion Amini");
 	printf("hello");	
+	printf("Hello, Setareh");
+	printf("hello");	
+	printf("hello, Quentin");
 	return 0;
 }
