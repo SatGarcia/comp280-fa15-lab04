@@ -5,6 +5,10 @@ int main() {
 		
 	// add a printf to print out a welcome message that includes your name
 	printf("Ryan says hello.");
+	printf("hello Quentin");
+	
+	// add a printf to print out a welcome message that includes your name
+	printf("hello");	
 
 	return 0;
 }
