@@ -11,6 +11,7 @@ int main() {
 	// add a printf to print out a welcome message that includes your name
 	printf("Hello, Dion Amini");
 	printf("Hey, Jack");
+	printf("Hello, Setareh");
 	printf("hello");	
 	printf("hello, Quentin");
 	return 0;
