@@ -13,7 +13,7 @@ int main() {
 	printf("Hello from Danny");	
 	// add a printf to print out a welcome message that includes your name
 	printf("Hello, Dion Amini");
-
+	printf("Hello, Setareh");
 	printf("hello");	
 	printf("hello, Quentin");
 	return 0;
