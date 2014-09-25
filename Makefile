@@ -10,7 +10,10 @@ $(TARGET): $(TARGET).c
 	$(CC) -c $(TARGET).s
 	$(CC) -g -o $(TARGET) $(TARGET).c
 
+checkin: checkin.c
+	$(CC) -o $@ $<
 
 # clean up (remove) all files that can be re-built from source files
 clean: 
 	$(RM) $(TARGET) *.o *.s
+	$(RM) checkin
