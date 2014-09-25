@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main() {
-	printf("hello Quentin");
+	printf("COMP280 Roll Call:\n");
 	
 	// add a printf to print out a welcome message that includes your name
 	printf("hello");	
-
+	printf("hello, Quentin");
 	return 0;
 }
