@@ -2,19 +2,21 @@
 
 int main() {
 	printf("hello Quentin");
-	printf("Hello from  Danny");
 	printf("Hello, it's Neal.");	
-	// add a printf to print out a welcome message that includes your name
-	printf("hello");	
-	printf("COMP280 Roll Call:\n");
-		
-	// add a printf to print out a welcome message that includes your name
-	printf("Ryan says hello.");
+	printf("COMP280 Roll Call:\n");	
 	printf("Hello from Danny");	
-	// add a printf to print out a welcome message that includes your name
+	printf("Hello Brittany");
+	printf("Tanner Franklin\n");
+	printf("hello world. It's me, Hayden.\n");	
+	printf("Oh baby, hello there");
+	printf("Hello from Chris");
+	printf("Ryan says hello.");
+	printf("Charles WiNiN says hello.");
+	printf("Hello from Danny");	
 	printf("Hello, Dion Amini");
+	printf("Hey, Jack");
 	printf("Hello, Setareh");
-	printf("hello");	
-	printf("hello, Quentin");
+	printf("Hello, Quentin");
+        printf("Hello, Erik\n");
 	return 0;
 }
