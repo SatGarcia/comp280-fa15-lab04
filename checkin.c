@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 int main() {
-	printf("hello Quentin");
+	printf("COMP280 Roll Call:\n");	
+
 	printf("Hello from Danny");	
 	printf("Hello Brittany");
 	printf("hello");
-	printf("COMP280 Roll Call:\n");	
 	printf("Tanner Franklin\n");
 	printf("hello world. It's me, Hayden.\n");	
 	printf("Oh baby, hello there");
