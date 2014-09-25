@@ -21,6 +21,6 @@ int main() {
 	printf("hello");	
 	printf("hello, Quentin");
         printf("Hello, Erik\n");
->>>>>>> 84e5d2621082c692a23225a11911c8f9f1027ff4
+
 	return 0;
 }
