@@ -2,27 +2,23 @@
 
 int main() {
 	
-	printf("Hello from Erin");
-	
-	printf("hello");	
-
-	printf("hello Quentin");
-	printf("Hello, it's Neal.");	
 	printf("COMP280 Roll Call:\n");	
-	printf("Hello from Danny");	
-	printf("Hello Brittany");
-	printf("Tanner Franklin\n");
-	printf("hello world. It's me, Hayden.\n");	
-	printf("Oh baby, hello there");
-	printf("Hello from Chris");
-	printf("Ryan says hello.");
-	printf("Charles WiNiN says hello.");
-	printf("Hello from Danny");	
-	printf("Hello, Dion Amini");
-	printf("Hey, Jack");
-	printf("Hello, Setareh");
-	printf("Hello, Quentin");
-        printf("Hello, Erik\n");
->>>>>>> 84e5d2621082c692a23225a11911c8f9f1027ff4
+	printf("1. Hello from Erin");
+	printf("2. hello");	
+	printf("3. hello Quentin");
+	printf("4. Hello, it's Neal.");	
+	printf("5. Hello from Danny");	
+	printf("6. Hello Brittany");
+	printf("7. Tanner Franklin\n");
+	printf("8. hello world. It's me, Hayden.\n");	
+	printf("9. Oh baby, hello there");
+	printf("10. Hello from Chris");
+	printf("11. Ryan says hello.");
+	printf("12. Charles WiNiN says hello.");
+	printf("13. Hello, Dion Amini");
+	printf("14. Hey, Jack");
+	printf("15. Hello, Setareh");
+	printf("16. Hello, Quentin");
+        printf("17. Hello, Erik\n");
 	return 0;
 }
