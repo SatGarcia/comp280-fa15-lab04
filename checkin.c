@@ -3,13 +3,19 @@
 int main() {	
 	printf("COMP280 Roll Call:\n");	
 	// add a printf to print out a welcome message that includes your name
+	printf("Tanner Franklin\n");
+	printf("hello world. It's me, Hayden.\n");	
+	printf("Oh baby, hello there");
+	printf("hello");
 	printf("Ryan says hello.");
+	printf("Charles WiNiN says hello.");
 	printf("Hello from Danny");	
-	// add a printf to print out a welcome message that includes your name
 	printf("Hello, Dion Amini");
+	printf("hello");	
+	printf("Hey, Jack");
 	printf("Hello, Setareh");
 	printf("hello");	
 	printf("hello, Quentin");
-        printf("Hello, Erik");
+        printf("Hello, Erik\n");
 	return 0;
 }
