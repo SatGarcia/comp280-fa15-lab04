@@ -33,6 +33,8 @@ int main() {
 	printf("20. Hello, Jasper Forest\n");
 	printf("21. Hello this is Jeremy\n");
 	printf("22. Hi! From Bonnie!\n");
+	printf("21. Hello, from mingyu\n");
+	printf("19. Hi, it's Thomas");	
 	printf("23. Hallo, ich bin Sean\n");
 	printf("21. Hello, it's Moath\n");
 	printf("22. Hello this is Jeremy\n");
@@ -41,10 +43,18 @@ int main() {
 	printf("25. Hello, Jasper Forest\n");
 	printf("26. Hello this is Jeremy\n");
 	printf("27. Hi! From Bonnie!\n");
-	printf("28. Hello, mark\n");
-	// Add your hello message below here.
+	printf("28. hi Katie Levy\n");	
+// Add your hello message below here.
+	// Add your hello message below her
 	// Please give it a number (like above).
-	printf("23. Hi, it's Thomas\n");
-	printf("24. Hello, it's Heath\n");
+	// Don't forget to end it with a newline ('\n')
+	// Don't forget to end it with a newline ('\n')		
+	printf("28. Hello, Annan\n");
+        printf("29. Yo its big bog jay greezy on the track\n");
+       	printf("30. Yo its ya boi Kyle aka swagamillion\n");
+	printf("31. Hi, it's Thomas\n");
+	printf("32. Hello, it's Heath\n");
+	printf("33. Konnbanwa, TJ da.\n");
+	printf("34. Hello, Mark\n");
 	return 0;
 }
