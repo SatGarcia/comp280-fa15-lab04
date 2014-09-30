@@ -21,6 +21,7 @@ int main() {
 	printf("16. Hello, Quentin\n");
 	printf("17. Hello, Erik\n");
 	printf("18. Hola, from Satty\n");
+	printf("19. Konnichiwa, Gunnar desu\n");
 
 	// Add your hello message below here.
 	// Please give it a number (like above).
