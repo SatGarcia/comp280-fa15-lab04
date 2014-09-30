@@ -43,13 +43,10 @@ int main() {
 	printf("25. Hello, Jasper Forest\n");
 	printf("26. Hello this is Jeremy\n");
 	printf("27. Hi! From Bonnie!\n");
-<<<<<<< HEAD
-        printf("28. Yo its big bog jay greezy on the track\n");
 	// Add your hello message below here.
-=======
 	printf("28. Hello, Annan\n");
-        // Add your hello message below here.
->>>>>>> 3f0a1c134ad2bba54407a7532a3f69eddc807cb6
+        printf("29. Yo its big bog jay greezy on the track\n");
+        // Add your hello message below her
 	// Please give it a number (like above).
 	// Don't forget to end it with a newline ('\n).		
 	printf("23. Hi, it's Thomas\n");
