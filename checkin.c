@@ -27,5 +27,8 @@ int main() {
 	// Please give it a number (like above).
 	// Don't forget to end it with a newline ('\n')	
 	printf("21. Hello, Michael.\n");
+	printf("22. Hello this is Jeremy\n");
+	printf("23. Hi! From Bonnie!\n");
 	return 0;
+
 }
