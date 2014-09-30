@@ -33,6 +33,8 @@ int main() {
 	printf("20. Hello, Jasper Forest\n");
 	printf("21. Hello this is Jeremy\n");
 	printf("22. Hi! From Bonnie!\n");
+	printf("21. Hello, from mingyu\n");
+	printf("19. Hi, it's Thomas");	
 	printf("23. Hallo, ich bin Sean\n");
 	printf("21. Hello, it's Moath\n");
 	printf("22. Hello this is Jeremy\n");
