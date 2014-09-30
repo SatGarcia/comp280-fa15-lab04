@@ -20,8 +20,10 @@ int main() {
 	printf("15. Hello, Setareh\n");
 	printf("16. Hello, Quentin\n");
 	printf("17. Hello, Erik\n");
+	printf("18. Hola, from Satty\n");
 
 	// Add your hello message below here.
+	// Please give it a number (like above).
 	// Don't forget to end it with a newline ('\n')
 	
 	return 0;
