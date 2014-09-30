@@ -22,9 +22,7 @@ int main() {
 	printf("17. Hello, Erik\n");
 	printf("18. Hola, from Satty\n");
 	printf("19. Konnichiwa, Gunnar desu\n");
-	printf("20. Hi, it's Thomas\n");
-	// Add your hello message below here.
-	// Please give it a number (like above).
-	// Don't forget to end it with a newline ('\n')	
+	printf("20. Hi, it's Thomas\n\n");
+	printf("ayyyy it's austin barry laliberte\n\n\n");	
 	return 0;
 }
