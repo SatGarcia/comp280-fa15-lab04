@@ -24,10 +24,13 @@ int main() {
 	printf("19. Konnichiwa, Gunnar desu\n");
 	printf("20. hello Katie Levy\n");
 	printf("21. Hi, it's Thomas\n");
-	printf("22. Hello this is Jeremy\n");
+	printf("23. Hello this is Jeremy\n");
+	printf("24. Hi! From Bonnie!\n");
 	// Add your hello message below here.
 	// Please give it a number (like above).
+	// Don't forget to end it with a newline ('\n')
 	// Don't forget to end it with a newline ('\n')		
 
 	return 0;
+
 }
