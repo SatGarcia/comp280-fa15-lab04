@@ -20,5 +20,6 @@ int main() {
 	printf("15. Hello, Setareh");
 	printf("16. Hello, Quentin");
         printf("17. Hello, Erik\n");
+	printf("18. Hola, from Satty\n");
 	return 0;
 }
