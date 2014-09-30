@@ -24,5 +24,8 @@ int main() {
 	printf("19. Konnichiwa, Gunnar desu\n");
 	printf("20. Hi, it's Thomas\n\n");
 	printf("ayyyy it's austin barry laliberte\n\n\n");	
+	printf("21. Hello this is Jeremy\n");
+	printf("22. Hi! From Bonnie!\n");
 	return 0;
+
 }
