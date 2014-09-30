@@ -44,10 +44,13 @@ int main() {
 	printf("26. Hello this is Jeremy\n");
 	printf("27. Hi! From Bonnie!\n");
 	// Add your hello message below here.
+	// Add your hello message below her
+	// Please give it a number (like above).
 	printf("28. Hello, Annan\n");
         printf("29. Yo its big bog jay greezy on the track\n");
        	printf("30. Yo its ya boi Kyle aka swagamillion\n");
 	printf("31. Hi, it's Thomas\n");
 	printf("32. Hello, it's Heath\n");
+	printf("33. Konnbanwa, TJ da.\n");
 	return 0;
 }
