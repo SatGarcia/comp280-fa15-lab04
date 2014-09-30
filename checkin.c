@@ -26,6 +26,7 @@ int main() {
 	// Add your hello message below here.
 	// Please give it a number (like above).
 	// Don't forget to end it with a newline ('\n')
-	printf("19. Hi, it's Thomas");	
+	printf("19. Hi, it's Thomas");
+	printf("Hello, it's Heath\n");
 	return 0;
 }
