@@ -2,7 +2,7 @@
 
 int main() {
 	
-	printf("COMP280 Roll Call:\n");	
+	printf("COMP280 Roll Call:\n");
 	printf("1. Hello from Erin\n");
 	printf("2. hello\n");	
 	printf("3. hello Quentin\n");
@@ -22,13 +22,18 @@ int main() {
 	printf("17. Hello, Erik\n");
 	printf("18. Hola, from Satty\n");
 	printf("19. Konnichiwa, Gunnar desu\n");
+	printf("20. Hi, it's Thomas\n\n");
+	printf("ayyyy it's austin barry laliberte\n\n\n");	
+	printf("21. Hello this is Jeremy\n");
+	printf("22. Hi! From Bonnie!\n");
 	printf("20. Hi, it's Thomas\n");
 	printf("21. Hello from Casey\n");
-	printf("21. Hello, Noah\n");
+	printf("21. Hello, N\n");
 	printf("19. Konnichiwa, Gunnar desu\n");	
 	printf("20. Hello, Jasper Forest\n");
 	printf("21. Hello this is Jeremy\n");
 	printf("22. Hi! From Bonnie!\n");
+	printf("23. Hallo, ich bin Sean\n");
 	printf("21. Hello, it's Moath\n");
 	printf("22. Hello this is Jeremy\n");
 	printf("23. Hello, Noah\n");
