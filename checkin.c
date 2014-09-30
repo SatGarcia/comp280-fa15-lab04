@@ -51,5 +51,6 @@ int main() {
 	// Don't forget to end it with a newline ('\n).		
 	printf("23. Hi, it's Thomas\n");
 	printf("24. Hello, it's Heath\n");
+	printf("30. Konnbanwa, TJ da.\n");
 	return 0;
 }
