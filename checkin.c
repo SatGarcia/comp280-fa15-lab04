@@ -22,9 +22,13 @@ int main() {
 	printf("17. Hello, Erik\n");
 	printf("18. Hola, from Satty\n");
 	printf("19. Konnichiwa, Gunnar desu\n");
+	printf("20. Hi, it's Thomas\n\n");
+	printf("ayyyy it's austin barry laliberte\n\n\n");	
+	printf("21. Hello this is Jeremy\n");
+	printf("22. Hi! From Bonnie!\n");
 	printf("20. Hi, it's Thomas\n");
 	printf("21. Hello from Casey\n");
-	printf("21. Hello, Noah\n");
+	printf("21. Hello, N\n");
 	printf("19. Konnichiwa, Gunnar desu\n");	
 	printf("20. Hello, Jasper Forest\n");
 	printf("21. Hello this is Jeremy\n");
