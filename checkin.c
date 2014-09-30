@@ -2,7 +2,7 @@
 
 int main() {
 	
-	printf("COMP280 Roll Call:\n");	
+	printf("COMP280 Roll Call:\n");
 	printf("1. Hello from Erin\n");
 	printf("2. hello\n");	
 	printf("3. hello Quentin\n");
@@ -24,6 +24,7 @@ int main() {
 	printf("19. Konnichiwa, Gunnar desu\n");
 	printf("20. Hi, it's Thomas\n");
 	printf("21. Hello this is Jeremy\n");
+	printf("22. Hallo, Ich bin Sean\n");
 	// Add your hello message below here.
 	// Please give it a number (like above).
 	// Don't forget to end it with a newline ('\n')		
