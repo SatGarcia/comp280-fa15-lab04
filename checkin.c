@@ -8,6 +8,7 @@ int main() {
     printf("Hello from Quentin\n");
 	printf("Hello from Spencer\n");
 	printf("Hello from Will\n");
+	printf("3. Hi, it's Sat again\n");
 	// Add your hello message below here.                                   
 	// Please give it a number (like above).                                
 	// Don't forget to end it with a newline ('\n') 
